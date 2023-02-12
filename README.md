@@ -40,7 +40,7 @@ Please download Weights from [here](https://drive.google.com/file/d/15K_s0RYAuEi
 
 **Evaluating**
 
-For revealing the network performance, eval.py creats and saves results in DDD17/output directory
+For revealing the network performance, eval.py creates and saves results in DDD17/output directory
 ```
 cd DDD17
 python3 eval.py
@@ -61,7 +61,7 @@ P: Our network prediction, GT: Ground Truth
 
 **Training**
 
-Original Event-Scape dataset is avilable [here](https://github.com/Shathe/Ev-SegNet) for training and evaluating the network, download customized Event-Scape dataset from [here](https://drive.google.com/file/d/1XEUfhho-2g8NH3AYT49zBhDjybHOWAkF/view?usp=sharing), then extract it in Event-Scape/Dataset directory
+The original Event-Scape dataset is available [here](https://github.com/Shathe/Ev-SegNet) for training and evaluating the network, download the customized Event-Scape dataset from [here](https://drive.google.com/file/d/1XEUfhho-2g8NH3AYT49zBhDjybHOWAkF/view?usp=sharing), then extract it in Event-Scape/Dataset directory
 ```
 cd Event-Scape
 python3 train.py
@@ -73,7 +73,7 @@ Please download Weights from [here](https://drive.google.com/file/d/1OHDY8iooyAw
 
 **Evaluating**
 
-For revealing the network performance, eval.py creats and saves results in Event-Scape/output directory
+For revealing the network performance, eval.py creates and saves results in Event-Scape/output directory
 ```
 cd Event-Scape
 python3 eval.py
