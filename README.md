@@ -1,6 +1,3 @@
-# Event Based Semantic Segmentation
-Semantic Segmentation using an event camera
-
 # Event-Based Semantic Segmentation
 
 This work proposes a pyramid-based network for semantic segmentation using an event camera, we evaluate our model on DDD17 dataset[[link](https://github.com/Shathe/Ev-SegNet#readme)] and Event-Scape dataset[[link](https://rpg.ifi.uzh.ch/RAMNet.html)] 
