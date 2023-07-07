@@ -3,7 +3,7 @@
 This work proposes a pyramid-based network for semantic segmentation using an event camera, we evaluate our model on DDD17 dataset[[link](https://github.com/Shathe/Ev-SegNet#readme)] and Event-Scape dataset[[link](https://rpg.ifi.uzh.ch/RAMNet.html)] 
 
 ## Abstract
-Event cameras are bio-inspired sensors. They have outstanding properties compared to frame-based cameras: high dynamic range (120 vs 60), low latency, and no motion blur. Event cameras are appropriate to use in challenging scenarios such as vision systems in self-driving cars and they have been used for high-level computer vision tasks such as semantic segmentation and depth estimation. In this work, we worked on semantic segmentation using an event camera for self-driving cars. This work introduces a new event-based semantic segmentation network and we evaluate our model on Alonso dataset and Event-Scape dataset which was produced using Carla simulator.
+Event cameras are bio-inspired sensors. They have outstanding properties compared to frame-based cameras: high dynamic range (120 vs 60), low latency, and no motion blur. Event cameras are appropriate to use in challenging scenarios such as vision systems in self-driving cars and they have been used for high-level computer vision tasks such as semantic segmentation and depth estimation. In this work, we worked on semantic segmentation using an event camera for self-driving cars. This work introduces a new event-based semantic segmentation network and we evaluate our model on DDD17 dataset and Event-Scape dataset which was produced using Carla simulator.
 
 # Network Architecture
 
