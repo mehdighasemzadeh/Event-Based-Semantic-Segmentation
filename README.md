@@ -37,7 +37,7 @@ cd DDD17
 python3 train.py
 ```
 
-**Pre-trained Weights**
+**Weights**
 
 Please download Weights from [here](https://drive.google.com/file/d/15K_s0RYAuEi4DkH-mfuFvMq7Qp6yQwcX/view?usp=sharing) , then extract it in DDD17 directory
 
