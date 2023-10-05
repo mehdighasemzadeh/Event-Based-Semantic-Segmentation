@@ -7,6 +7,11 @@ Event cameras are bio-inspired sensors. They have outstanding properties compare
 
 **The paper is available** [here](https://link.springer.com/chapter/10.1007/978-3-031-43763-2_10) 
 
+If you use this work in an academic context, please cite the following publication:
+```
+Ghasemzadeh, M., Shouraki, S.B. (2023). Semantic Segmentation Using Events and Combination of Events and Frames. In: Ghatee, M., Hashemi, S.M. (eds) Artificial Intelligence and Smart Vehicles. ICAISV 2023. Communications in Computer and Information Science, vol 1883. Springer, Cham. https://doi.org/10.1007/978-3-031-43763-2_10
+```
+
 # Network Architecture
 
 <img src="pic/eventmod.png" width="550" height="350">
