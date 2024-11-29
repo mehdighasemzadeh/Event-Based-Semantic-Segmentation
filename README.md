@@ -44,7 +44,7 @@ P: Our network prediction, GT: Ground Truth
 
 **Training**
 
-Please download DDD17 dataset from [here](https://github.com/Shathe/Ev-SegNet) or [here](https://drive.google.com/file/d/1XEUfhho-2g8NH3AYT49zBhDjybHOWAkF/view?usp=sharing), then extract it in DDD17/Dataset directory
+Please download DDD17 dataset from [here](https://github.com/Shathe/Ev-SegNet) then extract it in DDD17/Dataset directory
 ```
 cd DDD17
 python3 train.py
@@ -52,7 +52,7 @@ python3 train.py
 
 **Weights**
 
-Please download Weights from [here](https://drive.google.com/file/d/15K_s0RYAuEi4DkH-mfuFvMq7Qp6yQwcX/view?usp=sharing) , then extract it in DDD17 directory
+Please download Weights from [here](https://drive.google.com/drive/folders/1o1KrejQ7epF2IynXCzF_kk67h1ZcqoU5?usp=drive_link) , then copy it in DDD17 directory
 
 **Evaluating**
 
@@ -77,7 +77,7 @@ P: Our network prediction, GT: Ground Truth
 
 **Training**
 
-The original Event-Scape dataset is available [here](https://rpg.ifi.uzh.ch/RAMNet.html) for training and evaluating the network, download the customized Event-Scape dataset for training from [here](https://drive.google.com/file/d/1-FyNIXabsMeefS4x7icQ97JZzjw4AHpk/view?usp=drive_link), and test part from [here](https://drive.google.com/file/d/1RESG-fD2kp9Eod3s35Td8O01cf4tYjuJ/view?usp=drive_link), then extract it in Event-Scape/Dataset directory
+The original Event-Scape dataset is available [here](https://rpg.ifi.uzh.ch/RAMNet.html) for training and evaluating the network, download the dataset then extract it in Event-Scape/Dataset directory.
 
 ```
 cd Event-Scape
@@ -86,7 +86,7 @@ python3 train.py
 
 **Pre-trained Weights**
 
-Please download Weights from [here](https://drive.google.com/file/d/1OHDY8iooyAwIlNHPBKU-VPCIBNuFedhK/view?usp=sharing) , then extract it in Event-Scape directory
+Please download Weights from [here](https://drive.google.com/drive/folders/1SdLbta7b6hMZ-CdAteL72taKPw1MqV2C?usp=drive_link) , then copy it in Event-Scape directory
 
 **Evaluating**
 
