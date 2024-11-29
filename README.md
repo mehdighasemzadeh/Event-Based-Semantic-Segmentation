@@ -52,7 +52,7 @@ python3 train.py
 
 **Weights**
 
-Please download Weights from [here](https://drive.google.com/drive/folders/1o1KrejQ7epF2IynXCzF_kk67h1ZcqoU5?usp=drive_link) , then copy it in DDD17 directory
+Please download Weights from [here](https://drive.google.com/drive/folders/1o1KrejQ7epF2IynXCzF_kk67h1ZcqoU5?usp=drive_link) , then extract it in DDD17 directory
 
 **Evaluating**
 
@@ -86,7 +86,7 @@ python3 train.py
 
 **Pre-trained Weights**
 
-Please download Weights from [here](https://drive.google.com/drive/folders/1SdLbta7b6hMZ-CdAteL72taKPw1MqV2C?usp=drive_link) , then copy it in Event-Scape directory
+Please download Weights from [here](https://drive.google.com/drive/folders/1SdLbta7b6hMZ-CdAteL72taKPw1MqV2C?usp=drive_link) , then extract it in Event-Scape directory
 
 **Evaluating**
 
